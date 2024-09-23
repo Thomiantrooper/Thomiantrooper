@@ -17,6 +17,12 @@
 
 - ⚡ Fun fact **Balancing innovation in technology with a commitment to community growth.**
 
+  <a href="https://www.hackerrank.com/profile/kajanthankiruba1">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" style="width: 100px; height: auto;">
+</a>
+<span>Check out my HackerRank profile!</span>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kajanthan kirubakaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kajanthan kirubakaran" height="30" width="40" /></a>
