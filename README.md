@@ -1,6 +1,3 @@
-[![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/bhumika-1127)
-
-
 <h1 align="center">Hi 👋, I'm Kajanthan</h1>
 <h3 align="center">I’m a Full Stack Developer and tech enthusiast currently pursuing a degree at the Sri Lankan Institute of Information Technology. A proud student of S. Thomas' College, Bandarawela, I’m passionate about building innovative solutions and exploring new technologies. Alongside my academic and technical pursuits, I’m an active school cricketer and a dedicated dog lover. With strong leadership skills and a collaborative mindset, I enjoy working in teams to achieve shared goals and make a positive impact.</h3>
 <img align="right" alt="Coding" width="500" src="https://cdnl.iconscout.com/lottie/premium/thumb/working-software-engineer-animation-download-in-lottie-json-gif-static-svg-file-formats--html-logo-web-developer-development-pack-design-animations-5304704.gif">
