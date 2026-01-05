@@ -363,12 +363,20 @@ $ cat /var/log/achievements.log
 ║                     GITHUB ANALYTICS TERMINAL                    ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thomiantrooper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomiantrooper&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=thomiantrooper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="45%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomiantrooper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=thomiantrooper&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomiantrooper&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="45%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomiantrooper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="45%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=thomiantrooper&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="45%" />
+
+</div>
+
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
