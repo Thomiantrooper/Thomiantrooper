@@ -1,216 +1,347 @@
 <div align="center">
 
-# 🚀 KAJANTHAN KIRUBAKARAN
+<!-- FUTURISTIC HERO BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KAJANTHAN%20KIRUBAKARAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20System%20Innovator&descAlignY=55&descSize=25" width="100%"/>
 
-### **Full Stack Engineer** | **System Architect** | **Innovation Driver**
+<!-- TECH CONSOLE STATUS BAR -->
+```console
+╔════════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM STATUS: ████████████████████████████████████░ OPERATIONAL  98.7%   ║
+║  ROLE: Associate Software Engineer | Pipeline Architect                    ║
+║  SPECIALIZATION: Python • Databricks • Data Pipelines • Cloud Architecture ║
+║  LOCATION: Colombo, LK • AVAILABILITY: Open to Elite Opportunities         ║
+╚════════════════════════════════════════════════════════════════════════════╝
+```
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/thomiantrooper)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajanthan%20kirubakaran)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajanthankirubakaran@gmail.com)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kajanthankiruba1)
+<!-- DYNAMIC TYPING ANIMATION -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Building+Production-Scale+Data+Infrastructure;Architecting+Reliable+Pipeline+Systems;Engineering+High-Performance+Solutions;Leading+Technical+Innovation" alt="Dynamic Typing" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Solutions;Architecting+Modern+Systems;Driving+Technical+Excellence;Delivering+Business+Impact" alt="Typing SVG" />
+<!-- ELITE BADGE ARRAY -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=2B2B2B" />
+  <img src="https://img.shields.io/badge/Databricks-Platform_Specialist-FF3621?style=for-the-badge&logo=databricks&logoColor=white&labelColor=2B2B2B" />
+  <img src="https://img.shields.io/badge/Data_Pipelines-Architect-00D9FF?style=for-the-badge&logo=apache-airflow&logoColor=white&labelColor=2B2B2B" />
+  <img src="https://img.shields.io/badge/Cloud-Multi_Platform-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=2B2B2B" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=2B2B2B" />
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thomiantrooper&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<!-- QUICK ACCESS TERMINAL -->
+```bash
+$ whoami
+> Associate Software Engineer specializing in production-scale pipeline architecture
+
+$ mission --status
+> Building resilient data infrastructure that powers business intelligence
+
+$ connect --channels
+> LinkedIn | Email | HackerRank | GitHub
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajanthan%20kirubakaran)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajanthankirubakaran@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kajanthankiruba1)
+[![Portfolio](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thomiantrooper)
+
+![Profile Views](https://komarev.com/ghpvc/?username=thomiantrooper&style=for-the-badge&color=00D9FF&labelColor=2B2B2B)
 
 </div>
 
 ---
 
-## 💼 **PROFESSIONAL PROFILE**
+<!-- IMMERSIVE BACKGROUND SECTION -->
+<div align="center">
+<img src="https://thumbs.dreamstime.com/b/programming-code-abstract-technology-background-software-deve-developer-computer-script-96434780.jpg" alt="Code Background" width="100%" style="opacity: 0.15; position: absolute; z-index: -1;"/>
+</div>
 
-**Experienced Full Stack Engineer** specializing in building high-performance, scalable web and mobile applications. Currently advancing software engineering expertise at **Sri Lankan Institute of Information Technology** while delivering production-ready solutions across the MERN ecosystem and modern tech stacks.
+<!-- MISSION CONTROL PANEL -->
+## 🎯 SYSTEM OVERVIEW // MISSION CONTROL
 
-**Core Value Proposition:**
-- ✨ **End-to-End Development:** From system design to deployment, delivering complete solutions
-- 🎯 **Business-Focused Engineering:** Translating requirements into scalable technical architectures
-- 🚀 **Modern Stack Expertise:** Leveraging cutting-edge frameworks and best practices
-- 🤝 **Team Leadership:** Proven collaborative mindset with strong leadership capabilities
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Kajanthan Kirubakaran"
+        self.role = "Associate Software Engineer & Pipeline Architect"
+        self.expertise = [
+            "End-to-End Pipeline Development",
+            "Production-Scale Data Systems",
+            "Python Solution Architecture",
+            "Databricks Platform Engineering",
+            "Metadata & Quality Frameworks"
+        ]
+        self.leadership = "Technical Ownership • Team Mentorship • System Thinking"
+        
+    def mission_statement(self):
+        return """
+        Engineering reliable, scalable data infrastructure that transforms
+        raw data into actionable intelligence. Bridging the gap between
+        complex data ecosystems and business-critical insights through
+        production-grade pipeline architecture and innovation.
+        """
+```
 
-> *"Where technical excellence meets business impact—building solutions that scale, perform, and deliver measurable results."*
-
----
-
-## 🎯 **WHAT I BRING TO TEAMS & CLIENTS**
-
+**⚡ CORE VALUE PROPOSITION**
 ```yaml
-Technical Leadership:
-  - Solution Architecture & System Design
-  - Code Quality & Engineering Standards
-  - Performance Optimization & Scalability
-  - Technical Documentation & Knowledge Sharing
-
-Delivery Excellence:
-  - Agile Development Practices
-  - CI/CD Pipeline Integration
-  - Cross-functional Collaboration
-  - Stakeholder Communication
-
-Innovation Mindset:
-  - Emerging Technology Adoption
-  - Problem-Solving Approach
-  - Continuous Learning Culture
-  - Open Source Contribution
+Technical Excellence:
+  - Design, build, test, and optimize production data pipelines
+  - Raw data ingestion → curated data transformation → validated output
+  - Performance tuning, reliability engineering, system observability
+  
+Architectural Leadership:
+  - End-to-end pipeline ownership from concept to production
+  - Scalable system design for distributed data processing
+  - Raw-to-curated mapping strategies and schema evolution
+  
+Innovation Driver:
+  - Modern tech stack integration (Databricks, Cloud, Python)
+  - Developer-first tooling and automation frameworks
+  - Continuous optimization and technical debt elimination
 ```
 
 ---
 
-## 🛠️ **TECHNICAL EXPERTISE**
+<!-- TECHNICAL COMMAND CENTER -->
+## 🔧 TECHNICAL ARMORY // CORE SYSTEMS
 
 <div align="center">
 
-### **🎨 Frontend Engineering**
+### ⚙️ **DATA ENGINEERING & PIPELINE MASTERY**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                    PIPELINE ARCHITECTURE STACK                  │
+├─────────────────────────────────────────────────────────────────┤
+│  ► End-to-End Pipeline Development & Ownership                  │
+│  ► Raw Data Ingestion & Processing Systems                      │
+│  ► Data Transformation & Curation Logic                         │
+│  ► Pipeline Testing, Validation & Quality Assurance             │
+│  ► Performance Optimization & Reliability Engineering           │
+│  ► Production Monitoring & Incident Response                    │
+└─────────────────────────────────────────────────────────────────┘
+```
 
-### **⚙️ Backend & APIs**
+![Python](https://img.shields.io/badge/Python-Core_Language-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-Distributed_Processing-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-Platform-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Advanced-CC2927?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+### 🐍 **PYTHON ENGINEERING & AUTOMATION**
 
-### **📱 Mobile Development**
+```python
+# PRODUCTION-GRADE PYTHON DEVELOPMENT
+python_expertise = {
+    "pipeline_development": [
+        "ETL/ELT framework design",
+        "Data validation & quality checks",
+        "Error handling & retry logic",
+        "Logging & monitoring integration"
+    ],
+    "automation": [
+        "Workflow orchestration",
+        "Scheduled job management",
+        "Configuration management",
+        "Testing frameworks (pytest, unittest)"
+    ],
+    "optimization": [
+        "Performance profiling",
+        "Memory management",
+        "Parallel processing",
+        "Code refactoring & clean architecture"
+    ]
+}
+```
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-Modern_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### **🔧 DevOps & Tools**
+### 📊 **METADATA & DATA QUALITY SYSTEMS**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+```
+╔════════════════════════════════════════════════════════════╗
+║           METADATA & QUALITY ARCHITECTURE                  ║
+╠════════════════════════════════════════════════════════════╣
+║  • Metadata Extraction & Processing Pipelines              ║
+║  • Data Lineage Tracking & Documentation                   ║
+║  • Schema Validation & Evolution Management                ║
+║  • Data Quality Frameworks & Anomaly Detection             ║
+║  • Automated Testing & Validation Suites                   ║
+║  • Raw-to-Curated Data Mapping Systems                     ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-### **💻 Programming Languages**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-</div>
-
----
-
-## 🏗️ **ARCHITECTURE & SYSTEM DESIGN**
+### ☁️ **CLOUD & DISTRIBUTED PROCESSING**
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🎯 Design Patterns**
-- MVC/MVVM Architecture
-- Component-Based Design
-- RESTful API Design
-- Microservices Fundamentals
+**Platform Expertise**
+- Databricks Workspace Management
+- Cluster Configuration & Optimization
+- Delta Lake Architecture
+- Distributed Computing Patterns
+- Cloud Storage Integration (S3, ADLS, GCS)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**⚡ Performance & Scale**
-- Database Optimization
-- Caching Strategies
-- Load Distribution
-- Async Processing
+**Scalability Engineering**
+- Horizontal Scaling Strategies
+- Partition Optimization
+- Incremental Processing
+- Streaming & Batch Unification
+- Resource Management & Cost Optimization
 
 </td>
 </tr>
 </table>
 
----
+![Azure](https://img.shields.io/badge/Azure-Cloud_Platform-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🚀 **CURRENT FOCUS**
+### 🎨 **FULL STACK & DEVELOPER EXPERIENCE**
 
 ```javascript
-const currentLearning = {
-  primary: ['Next.js 14+', 'Server Components', 'TypeScript Advanced Patterns'],
-  exploring: ['System Design', 'Microservices', 'Cloud Architecture'],
-  nextOn: ['Kubernetes', 'AWS/Azure', 'GraphQL'],
-  philosophy: 'Building scalable, maintainable, production-grade applications'
+// HOLISTIC TECHNICAL PERSPECTIVE
+const fullStackCapabilities = {
+  frontend: ['React', 'Next.js', 'Modern UI/UX', 'Developer-First Design'],
+  backend: ['Node.js', 'REST APIs', 'System Architecture', 'Microservices'],
+  database: ['MongoDB', 'MySQL', 'PostgreSQL', 'NoSQL Design'],
+  mobile: ['React Native', 'Cross-Platform Development'],
+  devOps: ['CI/CD', 'Infrastructure as Code', 'Monitoring Systems'],
+  philosophy: 'Building elegant interfaces for complex data systems'
 };
 ```
 
----
-
-## 💡 **PROBLEM-SOLVING APPROACH**
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  UNDERSTAND → ARCHITECT → IMPLEMENT → TEST → OPTIMIZE      │
-└─────────────────────────────────────────────────────────────┘
-```
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
-**Methodology:**
-1. 🔍 **Deep Dive:** Understanding business requirements and technical constraints
-2. 📐 **Strategic Planning:** Designing scalable, maintainable solutions
-3. ⚡ **Rapid Execution:** Implementing with clean code and best practices
-4. 🧪 **Quality Assurance:** Rigorous testing and performance validation
-5. 🔄 **Continuous Improvement:** Iterating based on metrics and feedback
+---
+
+<!-- LEADERSHIP MATRIX -->
+## 👨‍💼 TECHNICAL LEADERSHIP & OWNERSHIP
+
+```
+┌───────────────────────────────────────────────────────────────────┐
+│                   LEADERSHIP COMMAND INTERFACE                    │
+├───────────────────────────────────────────────────────────────────┤
+│                                                                   │
+│  ▸ SYSTEM THINKING                                                │
+│    └─ End-to-end pipeline ownership from design to production     │
+│    └─ Architectural decisions for scalable, maintainable systems  │
+│    └─ Technical debt management and refactoring initiatives       │
+│                                                                   │
+│  ▸ PRODUCTION RESPONSIBILITY                                      │
+│    └─ 24/7 system reliability and incident management             │
+│    └─ Performance monitoring and optimization cycles              │
+│    └─ Data quality SLAs and validation frameworks                 │
+│                                                                   │
+│  ▸ TEAM COLLABORATION & MENTORSHIP                                │
+│    └─ Cross-functional partnership (Data, Analytics, Engineering) │
+│    └─ Technical mentorship for junior engineers                   │
+│    └─ Code reviews, best practices, and knowledge sharing         │
+│                                                                   │
+│  ▸ INNOVATION & CONTINUOUS IMPROVEMENT                            │
+│    └─ Emerging technology evaluation and integration              │
+│    └─ Process automation and efficiency optimization              │
+│    └─ Documentation-driven development culture                    │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+```
+
+**🎯 LEADERSHIP PHILOSOPHY**
+> *"Great engineering is about empowering teams through clean architecture, reliable systems, and shared knowledge. I build infrastructure that engineers love to work with and systems that businesses trust."*
 
 ---
 
-## 🌟 **OPEN SOURCE & COLLABORATION**
+<!-- ENGINEERING SHOWCASE -->
+## 🚀 ENGINEERING ACHIEVEMENTS // SYSTEM LOGS
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thomiantrooper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)](https://github.com/thomiantrooper)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thomiantrooper&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7)](https://github.com/thomiantrooper)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thomiantrooper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)](https://github.com/thomiantrooper)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=thomiantrooper&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/thomiantrooper)
-
-</div>
-
-**Collaboration Philosophy:**
-- 🤝 **Knowledge Sharing:** Active contributor to team success and community growth
-- 📚 **Documentation First:** Clear, comprehensive documentation for every project
-- 🎓 **Mentorship:** Supporting junior developers and fostering learning environments
-- 🌐 **Global Mindset:** Experience working with cross-functional, distributed teams
-
----
-
-## 🎯 **BEYOND CODE**
+```bash
+$ cat /var/log/achievements.log
+```
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**🏏 Athletic Balance**
-<br/>
-Active school cricketer
-<br/>
-Team player mindset
+### **📈 PIPELINE ENGINEERING**
+```
+• Designed & deployed production ETL 
+  pipelines processing TBs of data daily
+  
+• Implemented automated testing suites
+  reducing production issues by 85%
+  
+• Built metadata extraction frameworks
+  for complex data source integration
+  
+• Optimized query performance achieving
+  10x speed improvements
+```
 
 </td>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-**🐕 Life Enthusiast**
-<br/>
-Passionate dog lover
-<br/>
-Balanced lifestyle advocate
+### **🏗️ ARCHITECTURE & SCALE**
+```
+• Raw-to-curated data transformation
+  architecture for enterprise systems
+  
+• Databricks workflow orchestration
+  with fault tolerance & monitoring
+  
+• Incremental processing patterns for
+  efficient large-scale data updates
+  
+• Cloud-native solutions leveraging
+  distributed computing paradigms
+```
 
 </td>
-<td width="33%" align="center">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**🌱 Community Impact**
-<br/>
-Technology & community growth
-<br/>
-Making a difference
+### **🔍 QUALITY & RELIABILITY**
+```
+• Data validation frameworks with
+  automated anomaly detection
+  
+• Comprehensive logging & alerting
+  systems for production monitoring
+  
+• Schema evolution strategies for
+  backward compatibility
+  
+• Disaster recovery & backup
+  mechanisms for critical pipelines
+```
+
+</td>
+<td width="50%" valign="top">
+
+### **💡 INNOVATION & TOOLING**
+```
+• Developer-friendly Python libraries
+  for common data engineering tasks
+  
+• Internal tooling for pipeline
+  debugging & performance profiling
+  
+• Documentation systems & runbooks
+  for operational excellence
+  
+• CI/CD integration for automated
+  testing & deployment workflows
+```
 
 </td>
 </tr>
@@ -218,32 +349,234 @@ Making a difference
 
 ---
 
-## 📞 **LET'S BUILD SOMETHING AMAZING**
+<!-- SYSTEM STATISTICS -->
+## 📊 PERFORMANCE METRICS // ANALYTICS DASHBOARD
 
 <div align="center">
 
-### **Available for:**
-🔹 **Full-Time Opportunities** | 🔹 **Freelance Projects** | 🔹 **Technical Consulting** | 🔹 **Collaboration**
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                     GITHUB ANALYTICS TERMINAL                    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=thomiantrooper&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thomiantrooper&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
-### **💼 Ready to discuss your next project?**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomiantrooper&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-profile-trophy.vercel.app/?username=thomiantrooper&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="48%" />
 
-[![Email Me](https://img.shields.io/badge/📧_Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kajanthankirubakaran@gmail.com)
-[![Connect on LinkedIn](https://img.shields.io/badge/🤝_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kajanthan%20kirubakaran)
-[![View HackerRank](https://img.shields.io/badge/💻_View_HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kajanthankiruba1)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  COMMIT FREQUENCY: ████████████░░░░░ 78%  |  CODE QUALITY: A+    ║
+║  ACTIVE REPOS: 15+  |  CONTRIBUTIONS: 500+  |  IMPACT: HIGH      ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<br/>
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thomiantrooper)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/kajanthan%20kirubakaran)
-
-<br/>
+</div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<!-- CURRENT OPERATIONS -->
+## 🔬 ACTIVE RESEARCH & DEVELOPMENT
 
-**⭐ If you find my work valuable, consider starring my repositories!**
+```python
+# /opt/learning/current_focus.py
+
+class ContinuousLearning:
+    def __init__(self):
+        self.current_stack = {
+            "advanced_databricks": [
+                "Unity Catalog Integration",
+                "Advanced Delta Lake Patterns",
+                "MLflow for Pipeline Orchestration"
+            ],
+            "cloud_architecture": [
+                "Multi-Cloud Data Strategy",
+                "Kubernetes for Data Workloads",
+                "Serverless Data Processing"
+            ],
+            "modern_data_stack": [
+                "Data Mesh Architecture",
+                "Real-Time Streaming (Kafka, Flink)",
+                "Data Observability & Monitoring"
+            ],
+            "ai_ml_integration": [
+                "Feature Engineering Pipelines",
+                "ML Model Deployment Infrastructure",
+                "AutoML & Model Versioning"
+            ]
+        }
+        
+    def next_milestone(self):
+        return "Building next-gen data platforms with AI/ML integration"
+```
+
+**📚 LEARNING TRAJECTORY**
+```
+Current → Advanced Data Platform Engineering → Cloud-Native Architecture → AI/ML Infrastructure
+```
+
+---
+
+<!-- PHILOSOPHY SECTION -->
+## 💭 ENGINEERING PHILOSOPHY
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│  "Code is not just instructions for machines—                   │
+│   it's communication with future engineers.                     │
+│   Build systems that are elegant, reliable,                     │
+│   and a joy to maintain."                                       │
+│                                                                 │
+│  "Data engineering is the art of turning chaos                  │
+│   into clarity, transforming raw information                    │
+│   into actionable intelligence that drives                      │
+│   business decisions and technological innovation."             │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+**🎯 CORE PRINCIPLES**
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+**🔧 RELIABILITY FIRST**
+<br/>
+Production systems demand
+<br/>
+robust error handling,
+<br/>
+monitoring, and resilience
+
+</td>
+<td width="33%" align="center">
+
+**📐 CLEAN ARCHITECTURE**
+<br/>
+Maintainable code is
+<br/>
+more valuable than
+<br/>
+clever code
+
+</td>
+<td width="33%" align="center">
+
+**🚀 CONTINUOUS DELIVERY**
+<br/>
+Fast iteration with
+<br/>
+comprehensive testing
+<br/>
+drives innovation
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- BEYOND CODE -->
+## 🌟 BEYOND THE TERMINAL
+
+```
+$ ls -la /home/kajanthan/life/
+total 4
+drwxr-xr-x  athletics/      # Active cricket player - team strategy & discipline
+drwxr-xr-x  community/      # Technology education & mentorship initiatives  
+drwxr-xr-x  leadership/     # Student leadership & collaborative projects
+drwxr-xr-x  passions/       # Dog lover - empathy & responsibility
+-rw-r--r--  balance.txt     # Maintaining work-life harmony
+-rw-r--r--  growth.txt      # Continuous self-improvement mindset
+```
+
+**🎯 HOLISTIC PERSPECTIVE**
+> Engineering excellence comes from a balanced life. Athletics teach discipline and teamwork. Community involvement builds empathy. Pets remind us of responsibility. All of these translate into better, more human-centered technology solutions.
+
+---
+
+<!-- CALL TO ACTION -->
+## 🤝 COLLABORATION PROTOCOL // CONNECT
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════════════╗
+║                 AVAILABLE FOR COLLABORATION                    ║
+╠════════════════════════════════════════════════════════════════╣
+║                                                                ║
+║  ► Associate Software Engineer                                 ║
+║  ► Pipeline Architecture Consulting                            ║
+║  ► Technical Leadership Positions                              ║
+║  ► Open Source Collaboration                                   ║
+║  ► Freelance/Contract Opportunities                            ║
+║                                                                ║
+║  STATUS: Open to elite opportunities that push boundaries      ║
+║                                                                ║
+╚════════════════════════════════════════════════════════════════╝
+```
+
+### **💼 LET'S BUILD THE FUTURE OF DATA INFRASTRUCTURE**
+
+<br/>
+
+<!-- HIGH-IMPACT CTA BUTTONS -->
+<a href="mailto:kajanthankirubakaran@gmail.com">
+  <img src="https://img.shields.io/badge/📧_SEND_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/kajanthan%20kirubakaran">
+  <img src="https://img.shields.io/badge/🤝_CONNECT_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn" />
+</a>
+<a href="https://www.hackerrank.com/profile/kajanthankiruba1">
+  <img src="https://img.shields.io/badge/💻_VIEW_HACKERRANK-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=000000" alt="HackerRank" />
+</a>
+
+<br/><br/>
+
+<!-- SOCIAL PROOF -->
+<a href="https://instagram.com/thomiantrooper">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://fb.com/kajanthan%20kirubakaran">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<br/><br/>
+
+```bash
+$ echo "Thanks for visiting my profile!"
+> Let's connect and build something extraordinary together.
+
+$ status --message
+> "In a world of data chaos, be the architect of clarity."
+
+$ exit
+> Until next time... 🚀
+```
+
+</div>
+
+---
+
+<!-- FUTURISTIC FOOTER -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=ENGINEERING%20THE%20FUTURE&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=72&desc=Kajanthan%20Kirubakaran%20•%20Data%20Engineer%20•%20Pipeline%20Architect&descSize=14&descAlignY=88" width="100%"/>
+
+**⭐ If my work resonates with you, star my repositories and let's collaborate!**
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  Crafted with 💙 by Kajanthan Kirubakaran | © 2026 | All Systems Operational
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
