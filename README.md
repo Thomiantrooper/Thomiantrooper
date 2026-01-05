@@ -561,7 +561,11 @@ $ exit
 <!-- FUTURISTIC FOOTER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&text=ENGINEERING%20THE%20FUTURE&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=72&desc=Kajanthan%20Kirubakaran%20•%20Data%20Engineer%20•%20Pipeline%20Architect&descSize=14&descAlignY=88" width="100%"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=footer&text=ENGINEERING%20THE%20FUTURE&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70&desc=Kajanthan%20Kirubakaran%20•%20Associate%20Software%20Engineer%20•%20Pipeline%20Architect&descSize=15&descAlignY=88"
+  width="100%"
+/>
+
 
 **⭐ If my work resonates with you, star my repositories and let's collaborate!**
 
