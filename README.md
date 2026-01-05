@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- FUTURISTIC HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KAJANTHAN%20KIRUBAKARAN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Associate%20Software%20Engineer%20%7C%20Pipeline%20Architect%20%7C%20System%20Innovator&descAlignY=55&descSize=25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=KAJANTHAN%15KIRUBAKARAN&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Associate%15Software%15Engineer%15%7C%20Pipeline%20Architect%20%7C%20System%20Innovator&descAlignY=55&descSize=25" width="100%"/>
 
 <!-- TECH CONSOLE STATUS BAR -->
 ```console
